@@ -1,0 +1,9 @@
+path: /Users/annal/OneDrive/Documentos/Vai_dar_certo/weapon-detection/dataset/obj_train_data
+train: images/train
+val: images/train
+
+# number of classes
+nc: 6
+
+# class names
+names: ['pistol', 'smartphone', 'knife', 'monedero', 'billete', 'tarjeta']
